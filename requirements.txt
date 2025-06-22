@@ -1,0 +1,6 @@
+smartapi-python
+python-telegram-bot
+ta
+flask
+schedule
+pandas
